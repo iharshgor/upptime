@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   # iharshgor Websites
   - name: iharshgor
-    url: https://iharshgor.com/
+    url: https://iharshgor.com
   # SogGuruz Websites
   - name: Designly Frontend
     url: https://designlylabs.com
@@ -14,8 +14,23 @@ sites:
   - name: Designly Backend
     url: https://api.designlylabs.com
   - name: Designly Scrapper
-    url: https://scrap.designlylabs.com/
-
+    url: https://scrap.designlylabs.com
+  - name: ZenDesk Admin
+    url: https://zen-prod.solz.me
+  - name: ZenDesk Backend
+    url: https://zen-api-prod.solz.me/admin
+  - name: Nurses Now Backend
+    url: https://nurses-now-api.solz.me/api/status
+  - name: Nurses Now Facility
+    url: https://nurses-now-facility.solz.me/login
+  - name: Nurses Now Admin
+    url: https://nurses-now-admin.solz.me/login
+  - name: Nurses Now Recommender
+    url: https://nurses-now-recommender.solz.me/docs
+  - name: TriSteel Admin
+    url: https://ts-admin.solz.me/login
+  - name: TriSteel Customer
+    url: https://ts-customer.solz.me/Account/Login
 
 assignees:
   - iharshgor
