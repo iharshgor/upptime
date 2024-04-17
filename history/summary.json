@@ -127,22 +127,22 @@
   },
   {
     "name": "Nurses Now Backend",
-    "url": "https://nurses-now-api.solz.me",
+    "url": "https://nurses-now-api.solz.me/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/nurses-now-api.solz.me.ico",
     "slug": "nurses-now-backend",
     "status": "up",
-    "uptime": "4.98%",
-    "uptimeDay": "4.98%",
-    "uptimeWeek": "4.98%",
-    "uptimeMonth": "4.98%",
-    "uptimeYear": "4.98%",
+    "uptime": "2.33%",
+    "uptimeDay": "2.33%",
+    "uptimeWeek": "2.33%",
+    "uptimeMonth": "2.33%",
+    "uptimeYear": "2.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-17": 0
+      "2024-04-17": 9
     }
   },
   {
