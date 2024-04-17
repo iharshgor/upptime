@@ -20,7 +20,7 @@ sites:
   - name: ZenDesk Backend
     url: https://zen-api-prod.solz.me/admin
   - name: Nurses Now Backend
-    url: https://nurses-now-api.solz.me
+    url: https://nurses-now-api.solz.me/api/status
   - name: Nurses Now Facility
     url: https://nurses-now-facility.solz.me/login
   - name: Nurses Now Admin
