@@ -130,18 +130,19 @@
     "url": "https://nurses-now-api.solz.me/api/status",
     "icon": "https://icons.duckduckgo.com/ip3/nurses-now-api.solz.me.ico",
     "slug": "nurses-now-backend",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 554,
     "timeDay": 562,
     "timeWeek": 568,
     "timeMonth": 554,
     "timeYear": 554,
     "dailyMinutesDown": {
+      "2024-04-25": 5,
       "2024-04-17": 9
     }
   },
@@ -150,54 +151,59 @@
     "url": "https://nurses-now-facility.solz.me/login",
     "icon": "https://icons.duckduckgo.com/ip3/nurses-now-facility.solz.me.ico",
     "slug": "nurses-now-facility",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 547,
     "timeDay": 507,
     "timeWeek": 543,
     "timeMonth": 547,
     "timeYear": 547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-25": 3
+    }
   },
   {
     "name": "Nurses Now Admin",
     "url": "https://nurses-now-admin.solz.me/login",
     "icon": "https://icons.duckduckgo.com/ip3/nurses-now-admin.solz.me.ico",
     "slug": "nurses-now-admin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 565,
     "timeDay": 570,
     "timeWeek": 558,
     "timeMonth": 565,
     "timeYear": 565,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-25": 2
+    }
   },
   {
     "name": "Nurses Now Recommender",
     "url": "https://nurses-now-recommender.solz.me/docs",
     "icon": "https://icons.duckduckgo.com/ip3/nurses-now-recommender.solz.me.ico",
     "slug": "nurses-now-recommender",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.76%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 807,
     "timeDay": 798,
     "timeWeek": 815,
     "timeMonth": 807,
     "timeYear": 807,
     "dailyMinutesDown": {
+      "2024-04-25": 1,
       "2024-04-17": 27
     }
   },
@@ -206,27 +212,29 @@
     "url": "https://ts-admin.solz.me/login",
     "icon": "https://icons.duckduckgo.com/ip3/ts-admin.solz.me.ico",
     "slug": "tri-steel-admin",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1077,
     "timeDay": 1012,
     "timeWeek": 1053,
     "timeMonth": 1077,
     "timeYear": 1077,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-25": 1
+    }
   },
   {
     "name": "TriSteel Customer",
     "url": "https://ts-customer.solz.me/Account/Login",
     "icon": "https://icons.duckduckgo.com/ip3/ts-customer.solz.me.ico",
     "slug": "tri-steel-customer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -235,6 +243,8 @@
     "timeWeek": 1047,
     "timeMonth": 1065,
     "timeYear": 1065,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-25": 0
+    }
   }
 ]
