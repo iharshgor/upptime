@@ -12,7 +12,7 @@ sites:
   - name: Designly Admin
     url: https://admin.designlylabs.com/admin
   - name: Designly Backend
-    url: https://api.designlylabs.com
+    url: https://api.designlylabs.com/status
   - name: Designly Scrapper
     url: https://scrap.designlylabs.com/status
   - name: ZenDesk Admin
