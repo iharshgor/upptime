@@ -1,7 +1,7 @@
 url: https://nurses-now-api.solz.me/api/status
-status: down
-code: 523
-responseTime: 3243
-lastUpdated: 2024-05-11T23:15:04.795Z
+status: up
+code: 200
+responseTime: 689
+lastUpdated: 2024-05-12T15:25:14.966Z
 startTime: 2024-04-17T03:53:19.448Z
 generator: Upptime <https://github.com/upptime/upptime>
